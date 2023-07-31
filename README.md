@@ -9,8 +9,8 @@ To get started with the backend API, follow the steps below:
 
 3. Set up the database configurations:
 
-    * For PostgreSQL, create a database and update the config/config.js file with the correct database credentials.
-    * For MongoDB, make sure you have MongoDB installed and running. Update the config/config.js file with the MongoDB connection URI.
+    * For PostgreSQL, create a database and update the config/dbconnection.js file with the correct database credentials.
+    * For MongoDB, make sure you have MongoDB installed and running. Update the config/dbconnection.js file with the MongoDB connection URI.
 
 4. Start the backend server by running the following command:
 
